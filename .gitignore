@@ -1,0 +1,5 @@
+#archivos de configuración local
+.env
+/includes/conexion_db.php
+#directorio de dependencias de Composer
+/vendor
